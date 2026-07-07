@@ -1,16 +1,149 @@
-## Hi there 👋
+# <h1 align="center">Hi 👋, I'm Md Shahzad</h1>
 
-<!--
-**shahzad-zx/shahzad-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Frontend Developer | React.js Developer | MERN Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👨‍💻 About Me
+
+✨ Passionate about building modern, responsive and scalable web applications.
+
+🚀 Currently sharpening my skills in **React.js, Node.js and the MERN Stack**
+
+🌱 Learning **TypeScript, Next.js and Advanced React**
+
+💡 I enjoy turning ideas into interactive web experiences.
+
+🎯 Looking for **Frontend Developer / React Developer / MERN Stack opportunities**
+
+⚡ Fun Fact: I love solving coding problems and continuously improving my development skills.
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+✨ E-Commerce Website
+
+🛒 Full Stack Shopping Platform
+
+⚛️ React Dashboard
+
+📋 Task Manager
+
+💬 Real-Time Chat Application
+
+🌦 Weather App
+
+🎬 Movie Search App
+
+---
+
+# 🌍 Connect with Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Random Dev Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+⭐ Thanks for visiting my profile!
+
+</p>
